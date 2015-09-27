@@ -1,1 +1,8 @@
 E:\Development\MSE\ASWT.Coverage\ASWT.Coverage\bin\Debug\ASWT.CoverageProgram.exe.config
+E:\Development\MSE\ASWT.Coverage\ASWT.Coverage\bin\Debug\ASWT.CoverageProgram.exe
+E:\Development\MSE\ASWT.Coverage\ASWT.Coverage\bin\Debug\ASWT.CoverageProgram.pdb
+E:\Development\MSE\ASWT.Coverage\ASWT.Coverage\bin\Debug\ASWT.CoverageProgram.exe.CodeAnalysisLog.xml
+E:\Development\MSE\ASWT.Coverage\ASWT.Coverage\bin\Debug\ASWT.CoverageProgram.exe.lastcodeanalysissucceeded
+E:\Development\MSE\ASWT.Coverage\ASWT.Coverage\obj\Debug\ASWT.CoverageProgram.csprojResolveAssemblyReference.cache
+E:\Development\MSE\ASWT.Coverage\ASWT.Coverage\obj\Debug\ASWT.CoverageProgram.exe
+E:\Development\MSE\ASWT.Coverage\ASWT.Coverage\obj\Debug\ASWT.CoverageProgram.pdb

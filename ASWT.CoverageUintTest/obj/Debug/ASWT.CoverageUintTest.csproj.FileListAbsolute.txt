@@ -1,0 +1,11 @@
+E:\Development\MSE\ASWT.Coverage\ASWT.CoverageUintTest\bin\Debug\ASWT.CoverageUintTest.dll
+E:\Development\MSE\ASWT.Coverage\ASWT.CoverageUintTest\bin\Debug\ASWT.CoverageUintTest.pdb
+E:\Development\MSE\ASWT.Coverage\ASWT.CoverageUintTest\bin\Debug\ASWT.CoverageLib.dll
+E:\Development\MSE\ASWT.Coverage\ASWT.CoverageUintTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Development\MSE\ASWT.Coverage\ASWT.CoverageUintTest\bin\Debug\ASWT.CoverageLib.pdb
+E:\Development\MSE\ASWT.Coverage\ASWT.CoverageUintTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\Development\MSE\ASWT.Coverage\ASWT.CoverageUintTest\obj\Debug\ASWT.CoverageUintTest.csprojResolveAssemblyReference.cache
+E:\Development\MSE\ASWT.Coverage\ASWT.CoverageUintTest\obj\Debug\ASWT.CoverageUintTest.dll
+E:\Development\MSE\ASWT.Coverage\ASWT.CoverageUintTest\obj\Debug\ASWT.CoverageUintTest.pdb
+E:\Development\MSE\ASWT.Coverage\ASWT.CoverageUintTest\bin\Debug\ASWT.CoverageUintTest.dll.CodeAnalysisLog.xml
+E:\Development\MSE\ASWT.Coverage\ASWT.CoverageUintTest\bin\Debug\ASWT.CoverageUintTest.dll.lastcodeanalysissucceeded
