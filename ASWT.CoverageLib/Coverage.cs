@@ -10,17 +10,17 @@ namespace ASWT.CoverageLib
     {
         public static int Run(int a, int b)
         {
+            int result = 0;
             if (a >= b){
                 a += 20;
-                if (a == 70 && b == 50) return -1;
-                if (a > 100) return 100;
-                return a;
-            }
-            else {
+                if (a == 52) result = 100;
+                else result = a > 100 ? 100 : a;
+            }else{
                 b += 10;
-                if (b > 100) return 100;
-                return b;
+                if (b == 29) result = 100;
+                 else result = b > 100 ? 100 : b;
             }
+            return result;
         }
     }
 }

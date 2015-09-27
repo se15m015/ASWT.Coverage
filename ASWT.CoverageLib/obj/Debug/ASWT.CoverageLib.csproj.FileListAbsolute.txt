@@ -2,5 +2,4 @@ E:\Development\MSE\ASWT.Coverage\ASWT.CoverageLib\bin\Debug\ASWT.CoverageLib.dll
 E:\Development\MSE\ASWT.Coverage\ASWT.CoverageLib\bin\Debug\ASWT.CoverageLib.pdb
 E:\Development\MSE\ASWT.Coverage\ASWT.CoverageLib\obj\Debug\ASWT.CoverageLib.dll
 E:\Development\MSE\ASWT.Coverage\ASWT.CoverageLib\obj\Debug\ASWT.CoverageLib.pdb
-E:\Development\MSE\ASWT.Coverage\ASWT.CoverageLib\bin\Debug\ASWT.CoverageLib.dll.CodeAnalysisLog.xml
-E:\Development\MSE\ASWT.Coverage\ASWT.CoverageLib\bin\Debug\ASWT.CoverageLib.dll.lastcodeanalysissucceeded
+E:\Development\MSE\ASWT.Coverage\ASWT.CoverageLib\obj\Debug\ASWT.CoverageLib.csprojResolveAssemblyReference.cache
