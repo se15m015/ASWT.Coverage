@@ -1,0 +1,2 @@
+c:\users\richie\documents\visual studio 2015\Projects\ASWT.Coverage\ASWT.Coverage\bin\Debug\ASWT.Coverage.exe.config
+E:\Development\MSE\ASWT.Coverage\ASWT.Coverage\bin\Debug\ASWT.Coverage.exe.config
